@@ -1,0 +1,18 @@
+body {
+    color: white;
+    background-color: black;
+
+}
+
+h1{
+    font-size: 50px;
+    font font-family: "Trebuchet MS";
+}
+
+a {
+
+}
+
+span {
+    test-transform: uppercase;
+}
